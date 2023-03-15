@@ -1,6 +1,7 @@
 import IMG1 from '../../assets/landing_page.png';
 import IMG2 from '../../assets/sociofy.png';
-import CMG_SOON from '../../assets/coming_soon.avif';
+import IMG3 from '../../assets/url_shortening.jpg';
+// import CMG_SOON from '../../assets/coming_soon.avif';
 
 const data = [
     {
@@ -19,10 +20,10 @@ const data = [
     },
     {
         id: 3, 
-        image: CMG_SOON,
+        image: IMG3,
         title: "Shortly - URL Shortener",
-        github: 'https://github.com/shruti072003',
-        demo: 'https://github.com/shruti072003'
+        github: 'https://github.com/shruti072003/url-shortening',
+        demo: 'https://shruti072003.github.io/url-shortening/'
     },
 ]
 

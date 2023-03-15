@@ -91,7 +91,7 @@ const Skills = () => {
           <article className='experience__details'>
             <BsFillPatchCheckFill className='experience__details-icon'/>
             <div>
-              <h4>Oracle</h4>
+              <h4>Java</h4>
               <small className='text-light'>Intermediate</small>
             </div>
           </article>
