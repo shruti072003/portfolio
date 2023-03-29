@@ -32,6 +32,10 @@
     margin-bottom: 1rem;
 }
 
+.divider {
+    display: flex;
+}
+
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 @media screen and (max-width: 1024px) {
     .portfolio__container {
